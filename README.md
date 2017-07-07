@@ -1,2 +1,3 @@
 # TearableCloth
-A tearable cloth simulation using verlet intergration
+A tearable cloth simulation using verlet intergration. 
+
